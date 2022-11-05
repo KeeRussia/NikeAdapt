@@ -960,6 +960,7 @@ html {
 }
 
 .preloader {
+  display: none;
   position: fixed;
   background-color: var(--page-background);
   z-index: 1000;
